@@ -1,4 +1,4 @@
-## Hi there 👋
+## Intro
 
 <!--
 **adilla203/adilla203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I am Adwita Dutta.
+<br>I am interested in the world of robotics, automation and innovation.
+<br> Feel free to contact me if your interests match mine.😊
